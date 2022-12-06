@@ -1,5 +1,8 @@
 ## Lucas Iury Costa Schmidt
 
+### Desenvolvedor Front End
+
+
 - **E-mail:** lucascostaschmidt@gmail.com<br>
 - **Github:** [awesomelucas](https://github.com/awesomelucas)
 - **Linkedin** [Lucas Iury Costa Schmidt](https://www.linkedin.com/in/awesomelucas/)
